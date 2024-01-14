@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Software Developer)`**
 
-I'm a full-stack developer building my version of the digital world one step at a time. I am a passionate software developer with a knack for crafting elegant solutions to complex problems, dedicated to continuous learning and innovation in the ever-evolving world of technology.
+I am a passionate software developer with a knack for crafting elegant solutions to complex problems, dedicated to continuous learning and innovation in the ever-evolving world of technology. All my projects are unique, from planning and designing all the way to solving real-life problems with code.
 
    <p align="left">
       <a href="https://github.com/mrrobot266?tab=followers">
