@@ -1,6 +1,6 @@
 # 🏄‍♂ Erick Soto 💻 
 
-**`Digital Craftsman (Software Developer)`**
+**`Digital Craftsman (First-Gen Software Developer)`**
 
 I am a passionate software developer with a knack for crafting elegant solutions to complex problems, dedicated to continuous learning and innovation in the ever-evolving world of technology. All my projects are unique, from planning and designing all the way to solving real-life problems with code.
 
