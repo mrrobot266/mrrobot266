@@ -32,11 +32,6 @@ I am a passionate software developer with a knack for crafting elegant solutions
 #
 
 
-
-### 📊 Stats
-
-![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrrobot266&show_icons=true&theme=gruvbox)
-
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
